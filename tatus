@@ -1,0 +1,35 @@
+[33mcommit 7f28f27bee4cb79279f1d149513897a470270d62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Simon <acarigua88@mail.com>
+Date:   Sun Sep 27 18:44:58 2020 -0300
+
+    history one
+
+[33mcommit 8b85b81e6f093ecfeefe9fa5cbf01bb91d523270[m
+Author: Simon <acarigua88@mail.com>
+Date:   Sun Sep 20 12:34:10 2020 -0300
+
+    autentication-two-git
+
+[33mcommit 32e839df663513f8dc2af8a98f4c69767a9ee20c[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Simon <acarigua88@mail.com>
+Date:   Sun Sep 20 12:29:02 2020 -0300
+
+    autentication_two
+
+[33mcommit 516b7af6f0da13b2ffc2a9a3470257342393f420[m
+Author: sbstn <sbstn.jmnz@yahoo.com>
+Date:   Wed Feb 27 18:41:39 2019 -0300
+
+    Done Directions in README
+
+[33mcommit 72be73d827360497e65f7e5ec3a1fd56703cd1df[m
+Author: sbstn <sbstn.jmnz@yahoo.com>
+Date:   Wed Feb 27 13:31:19 2019 -0300
+
+    Basic app done
+
+[33mcommit 4cac8f0bf131ff5efd197c9c6f5aa56ed851895f[m
+Author: sbstn <sbstn.jmnz@yahoo.com>
+Date:   Wed Feb 27 10:31:43 2019 -0300
+
+    sqlite fix
